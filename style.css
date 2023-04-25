@@ -1,0 +1,12 @@
+.keys{
+    display: grid;
+  grid-row: auto;
+  grid-template-columns: 3fr 3fr 3fr 3fr;
+}
+.wrapper{
+    max-width: 300px;
+    margin: 0 auto;
+}
+.keys input{
+    margin: 2px;
+}
